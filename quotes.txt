@@ -12,3 +12,5 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Logic can be created rather than understand
+Half knowledge is dangerous.... So have full knowledge or no knowledge at all
